@@ -1,2 +1,2 @@
-# Kaggle: Home Credict Default Risk
+# Home Credict Default Risk
 
